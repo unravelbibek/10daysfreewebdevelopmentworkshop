@@ -13,4 +13,4 @@ Date : October 8 - 18
 time : 4 pm onwards
 Tutor : Dilip BK 
 
-![workshop graphics](/workshopgraphics.png)
+![workshop graphics](/main/Workshopgraphics.png)
