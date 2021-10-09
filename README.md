@@ -4,7 +4,7 @@
 
 ### you can just clone or downlaod the zip file from here, simply downlaod unzip and revise:
 `Day 1` [Download Day 1 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_1/day_1.zip) <br/>
-`Day 2` [Download Day 2 Zip + Assignments ](day_2_class_and_assignments.zip) |  [View assignments](day_2/Day2_README.md)
+`Day 2` [Download Day 2 Zip + Assignments ](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_2/day_2_class_and_assignments.zip) |  [View assignments](day_2/Day2_README.md)
 
 <br/>
 
