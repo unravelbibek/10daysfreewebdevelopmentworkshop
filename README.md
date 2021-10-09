@@ -13,4 +13,4 @@ Date : October 8 - 18
 time : 4 pm onwards
 Tutor : Dilip BK 
 
-![workshop graphics](/main/Workshopgraphics.png)
+![workshop graphics](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/blob/main/Workshopgraphics.png)
