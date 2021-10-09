@@ -15,4 +15,10 @@ Date : October 8 - 18<br/>
 time : 4 pm onwards<br/>
 Tutor : Dilip BK <br/>
 
-![workshop graphics](/Workshopgraphics.png)
+</br> 
+
+### Thank you to the whole team | 
+
+| [Neri Shrestha](https://github.com/shresthaneri) | [ Dilip Bk](https://github.com/dilipbk) | [Nishant Shrestha]() | [	Unique Maharjan](https://github.com/UniqueMaharjan) | [	Stuti upreti ](https://github.com/thestuti) | [Nishant Sapkota](https://github.com/thenishantsapkota) | [Sachit Yadav](https://github.com/ASACHIT) |
+
+![workshop graphics](/Workshopgraphics.png) 
