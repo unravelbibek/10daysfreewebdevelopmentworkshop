@@ -1,5 +1,6 @@
 # Day Two of 10 Days Free Ultimate Web Development Workshop </br>
 ## this directory contains all the code and resources along with the assignments to be submitted.
+[Download Day 2 Assignments and code](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_2/day_2_class_and_assignments.zip)
 
 </br>
 
