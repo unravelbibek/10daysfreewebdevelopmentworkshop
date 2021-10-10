@@ -16,7 +16,23 @@ Date : October 8 - 18<br/>
 Time : 4 pm onwards<br/>
 Tutor : Dilip BK <br/>
 
+***
 </br> 
+
+### IT Students of Nepal (ITSNP ORG) is an Organization working for the welfare of tech enthusiasts in Nepal. It all began with a vision to assist people in collaborative learning and problem solving platform. Gradually, we began conducting workshops and boot-camps, and to date, we have successfully completed 14+ workshops on diverse topics. We've assisted over 4000 people in dipping their toes into the realm of technology. 
+</br>
+
+### We're delighted we've been able to inspire others; the wonderful responses we've received have truly inspired us. We're improving day by day, and we're becoming a better version of ourselves. 
+</br>
+
+## Stay Connected with us
+[ [Facebook page](https://tiny.cc/itsnpfb)  |
+[Facebook group](https://www.facebook.com/groups/techforimpact) |
+[Discord](https://tiny.cc/itsnpdiscord) |
+[Instagram](https://tiny.cc/itsnpig) |
+[Twitter](https://tiny.cc/itsnptwitter) |
+[YouTube](https://tiny.cc/itsnpyt) |
+[LinkedIn](https://www.linkedin.com/company/itsnporg) ]
 
 ### Thank you to the whole team 
 
