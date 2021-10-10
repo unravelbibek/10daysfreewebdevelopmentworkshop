@@ -1,6 +1,6 @@
 # Day three of 10 Days Free Ultimate Web Development Workshop </br>
 ## this directory contains all the code and resources along with the assignments to be submitted.
-[Download Day 3 code](day_3/day_3.zip)
+[Download Day 3 code](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_3/day3.zip)
 
 </br>
 
