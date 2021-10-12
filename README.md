@@ -7,7 +7,7 @@
 `Day 1` [Download Day 1 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_1/day_1.zip) <br/>
 `Day 2` [Download Day 2 Zip + Assignments ](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_2/day_2_class_and_assignments.zip) |  [View assignments](day_2/README.md) </br>
 `Day 3` [Download Day 3 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_3/day3.zip)<br/>
-`Day 4` [Download Day 4 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_4/day4.zip)
+`Day 4` [Download Day 4 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/tree/main/day_4/day4.zip)
 <br/>
 
 ## Syllabus : http://tiny.cc/itsnpworkshopsyllabus
