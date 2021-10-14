@@ -12,7 +12,7 @@
 
 ## These assignments will help you explore your knowledge
 ### 1. A simple webpage
-### 2. Clone login form of facebook and discord
+### 2. Clone login interface form of facebook and discord using HTML and CSS, 
 </br>
 
 ## What things should be included in the webpage
