@@ -11,6 +11,7 @@
 `Day 5` [Download Day 5 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_5/day5.zip) </br>
 `Day 6` [Download Day 6 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_5/day5.zip) | [View Assignment ](day_6/README.md)
 
+
 <br/>
 
 ## Syllabus : http://tiny.cc/itsnpworkshopsyllabus
