@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>grid container</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        body {
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .grid-container {
+            width: 900px;
+            height: 450px;
+            background: indianred;
+            padding: 20px;
+        }
+        .item {
+            padding: 20px;
+            font-size: 1.4rem;
+            background: #0aa0a0;
+            /* margin: 10px; */
+            color: #fff;
+        }
+
+        .grid-container {
+            display: grid;
+            /* grid-template-columns: repeat(3, 1fr); */
+            grid-template-columns: 100px 100px 100px;
+            /* grid-template-rows: 100px 300px; */
+            /* justify-content: space-between; */
+            /* align-content: space-evenly; */
+            /* grid-column-gap: .7em;
+            grid-row-gap: 1em; */
+            /* grid-gap: 2em 1em; */
+            gap: 1em;
+        }
+
+        .grid-item-1 {
+            /* grid-column-start: 1;
+            grid-column-end: 3; */
+            /* grid-column: 1 / span 2; */
+            /* grid-row-start: 1;
+            grid-row-end: 3; */
+            grid-row: 1 / span 2;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="grid-container">
+        <div class="grid-item-1 item">1</div>
+        <div class="grid-item-2 item">2</div>
+        <div class="grid-item-3 item">3</div>
+        <div class="grid-item-4 item">4</div>
+        <div class="grid-item-5 item">5</div>
+    </div>
+</body>
+</html>
