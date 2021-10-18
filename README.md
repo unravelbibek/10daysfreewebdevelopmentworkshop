@@ -9,7 +9,8 @@
 `Day 3` [Download Day 3 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_3/day3.zip) </br>
 `Day 4` [Download Day 4 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_4/day4.zip) </br>
 `Day 5` [Download Day 5 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_5/day5.zip) </br>
-`Day 6` [Download Day 6 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_5/day5.zip) | [View Assignment ](day_6/README.md)
+`Day 6` [Download Day 6 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_6/day6.zip) | [View Assignment ](day_6/README.md)
+`Day 7` [Download Day 7 code](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_7/day7.zip)
 
 
 <br/>
@@ -41,6 +42,6 @@ Tutor : Dilip BK <br/>
 
 ### Thank you to the whole team 
 
-| [Neri Shrestha](https://github.com/shresthaneri) | [ Dilip Bk](https://github.com/dilipbk) | [Nishant Shrestha]() | [	Unique Maharjan](https://github.com/UniqueMaharjan) | [	Stuti upreti ](https://github.com/thestuti) | [Nishant Sapkota](https://github.com/thenishantsapkota) | [Sachit Yadav](https://github.com/ASACHIT) |
+| [Neri Shrestha](https://github.com/shresthaneri) | [ Dilip Bk](https://github.com/dilipbk) | [Nishant Shrestha](https://github.com/) | [	Unique Maharjan](https://github.com/UniqueMaharjan) | [	Stuti upreti ](https://github.com/thestuti) | [Nishant Sapkota](https://github.com/thenishantsapkota) | [Sachit Yadav](https://github.com/ASACHIT) |
 
 ![workshop graphics](/Workshopgraphics.png) 
