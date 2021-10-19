@@ -3,6 +3,7 @@
 ## Hello Fellow Community Members, <br/>
 ## This repository contains all the files used in the workshop to follow along or revise later. 
 
+
 ### You can just clone or download the zip file from here, simply download unzip and revise:
 `Day 1` [Download Day 1 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_1/day_1.zip) <br/>
 `Day 2` [Download Day 2 Zip + Assignments ](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_2/day_2_class_and_assignments.zip) |  [View assignments](day_2/README.md) </br>
