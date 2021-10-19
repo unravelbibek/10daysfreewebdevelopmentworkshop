@@ -15,7 +15,7 @@
 
 <br/>
 
-## Syllabus : http://tiny.cc/itsnpworkshopsyllabus
+## Syllabus : [click to view syllabus](https://docs.google.com/document/d/1T05QsBsgvGhdUvSo8VCEnkaO8P8ZKRtswLXpgtpkQwc/edit)
 <br/>
 About the workshop : 10 Days Free Ultimate Web Development Workshop ( HTML, CSS, JS )<br/>
 Date : October 8 - 18<br/>
