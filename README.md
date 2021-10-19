@@ -42,6 +42,6 @@ Tutor : Dilip BK <br/>
 
 ### Thank you to the whole team 
 
-| [Neri Shrestha](https://github.com/shresthaneri) | [ Dilip Bk](https://github.com/dilipbk) | [Nishant Shrestha](https://github.com/) | [	Unique Maharjan](https://github.com/UniqueMaharjan) | [	Stuti upreti ](https://github.com/thestuti) | [Nishant Sapkota](https://github.com/thenishantsapkota) | [Sachit Yadav](https://github.com/ASACHIT) |
+| [Neri Shrestha](https://github.com/shresthaneri) | [ Dilip Bk](https://github.com/dilipbk) | [Nishant Shrestha](https://github.com/sNishant011) | [	Unique Maharjan](https://github.com/UniqueMaharjan) | [	Stuti upreti ](https://github.com/thestuti) | [Nishant Sapkota](https://github.com/thenishantsapkota) | [Sachit Yadav](https://github.com/ASACHIT) |
 
 ![workshop graphics](/Workshopgraphics.png) 
