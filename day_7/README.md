@@ -5,7 +5,9 @@
 </br>
 
 ## Assignment: 
-### There is no Assignments for today, hold up tight we'll give you assignments at the end of JS Session all combined </br>
+### write a program to take percentage input from the user and print the marks on the console using a function considering full marks to be 100.
+
+ </br>
 
 
 

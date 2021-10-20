@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>adding and removing elements (parent.appendChild())</title>
+</head>
+<body>
+    
+    <ul>
+
+    </ul>
+
+    <script>
+
+        // let heading = document.createElement('h1');
+        // heading.innerHTML = "We are in the last day of workshop";
+        // let para = document.createElement('p');
+        // para.innerHTML = "This is a paragraph";
+
+        // document.body.appendChild(heading);
+        // document.body.appendChild(para);
+
+        let list = document.querySelector('ul');
+
+        let item = document.createElement('li');
+        item.innerHTML = "ITSNP";
+
+        list.appendChild(item);
+
+    </script>
+</body>
+</html>

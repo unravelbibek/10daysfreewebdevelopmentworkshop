@@ -5,7 +5,9 @@
 </br>
 
 ## Assignment: 
-### There is no Assignments for today, hold up tight we'll give you assignments at the end of JS Session all combined </br>
+### 1. create an array of objects that consists of users name, age, favorite subject, and gender and 
+### 2. create a new array of those whose favorite subject is math, create a new array of those who are greater than 20.
+</br>
 
 
 

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>creating objects using constructor function</title>
+</head>
+<body>
+    
+    <script>
+
+        function user() {
+
+            this.id = '001';
+            this.name = 'Dilip',
+            this.email = 'dilipbk175@gmail.com',
+            this.isLoggedIn = true,
+            this.login = function() {
+                console.log("User logged in");
+            }
+        }
+
+        let user1 = new user();
+
+        user1.login();
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>array method (sort)</title>
+</head>
+<body>
+    
+
+    <script>
+
+        //array literal
+        let friends = ["Bibek", "Neeri", "Sujal", "Nishant", "Asmita"];
+
+        // console.log(friends);
+
+        // friends.sort();
+
+        // console.log(friends);
+
+        let age = [5, 105, 12, 21, 17, 23, 18, 32, 10, 13, 6];
+
+        age.sort(function (a, b) {
+            return a - b;             //a - b > 0  b places first
+        });                           //a - b < 0  a places first
+                                      // a - b = 0 nothing change
+        console.log(age);       
+    </script>
+</body>
+</html>
