@@ -14,10 +14,16 @@
 `Day 7` [Download Day 7 code](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_7/day7.zip) </br>
 `Day 8` [Download Day 8 code](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_8/day8.zip) </br>
 `Day 9` [Download Day 8 code](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_9/day9.zip) </br>
-`Day 10` Day 10 was Assignment submission day. | [View top 3 Assignments](day_10/README.md)
+`Day 10` was Assignment submission day. | [View top 3 Assignments](day_10/README.md)
 <br/>
 
 ## Syllabus : [click to view syllabus](https://docs.google.com/document/d/1T05QsBsgvGhdUvSo8VCEnkaO8P8ZKRtswLXpgtpkQwc/edit)
+
+***
+## Resources : [Slides and Recorded videos are here :](Resources/README.md) 
+</br>
+
+
 <br/>
 About the workshop : 10 Days Free Ultimate Web Development Workshop ( HTML, CSS, JS )<br/>
 Date : October 8 - 18<br/>
