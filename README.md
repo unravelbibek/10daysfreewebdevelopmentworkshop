@@ -13,7 +13,7 @@
 `Day 6` [Download Day 6 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_6/day6.zip) | [View Assignment ](day_6/README.md) </br>
 `Day 7` [Download Day 7 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_7/day7.zip) |  [View assignments](day_7/README.md)</br>
 `Day 8` [Download Day 8 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_8/day8.zip) |  [View assignments](day_8/README.md) </br>
-`Day 9` [Download Day 8 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_9/day9.zip) |  [View assignments](day_9/README.md)</br>
+`Day 9` [Download Day 9 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_9/day9.zip) |  [View assignments](day_9/README.md)</br>
 `Day 10` was Assignment submission day. | [View top 3 Assignments](day_10/README.md)
 <br/>
 
