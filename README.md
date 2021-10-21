@@ -7,13 +7,13 @@
 ### You can just clone or download the zip file from here, simply download unzip and revise:
 `Day 1` [Download Day 1 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_1/day_1.zip) <br/>
 `Day 2` [Download Day 2 Zip + Assignments ](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_2/day_2_class_and_assignments.zip) |  [View assignments](day_2/README.md) </br>
-`Day 3` [Download Day 3 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_3/day3.zip) </br>
-`Day 4` [Download Day 4 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_4/day4.zip) </br>
-`Day 5` [Download Day 5 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_5/day5.zip) </br>
+`Day 3` [Download Day 3 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_3/day3.zip) |  [View assignments](day_3/README.md) </br>
+`Day 4` [Download Day 4 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_4/day4.zip) |  [View assignments](day_4/README.md)</br>
+`Day 5` [Download Day 5 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_5/day5.zip) |  [View assignments](day_5/README.md)</br>
 `Day 6` [Download Day 6 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_6/day6.zip) | [View Assignment ](day_6/README.md) </br>
-`Day 7` [Download Day 7 code](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_7/day7.zip) </br>
-`Day 8` [Download Day 8 code](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_8/day8.zip) </br>
-`Day 9` [Download Day 8 code](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_9/day9.zip) </br>
+`Day 7` [Download Day 7 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_7/day7.zip) |  [View assignments](day_7/README.md)</br>
+`Day 8` [Download Day 8 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_8/day8.zip) |  [View assignments](day_8/README.md) </br>
+`Day 9` [Download Day 8 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_9/day9.zip) |  [View assignments](day_9/README.md)</br>
 `Day 10` was Assignment submission day. | [View top 3 Assignments](day_10/README.md)
 <br/>
 
