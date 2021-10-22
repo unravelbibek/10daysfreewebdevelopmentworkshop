@@ -1,5 +1,5 @@
 # Day Ten  of 10 Days Free Ultimate Web Development Workshop </br>
-## this directory contains all the submitted Assignments by participants.
+## this directory contains the submitted Assignments by participants.
 </br>
 
 ### As we had promised to list Top 3 Assignments submitted to us here it is. 
