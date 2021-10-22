@@ -22,7 +22,7 @@
 <br/>
 `Day 9` : [View Day 9 slides](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/Resources/day_1.pdf) | [View Day 9 Recorded session](https://youtu.be/fvNVqfn6DpM) | [View Day 9 Recorded session part 2](https://youtu.be/PC7-1iFqS9s) <br/>
 
-### [ [View all playlist!]() | [Download all slides](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/Resources/itsnpallslides.zip) ]
+### [ [View all playlist!](https://www.youtube.com/playlist?list=PLkHMopSWmw_T8JxGRE1E8If1mUcj4o-LA) | [Download all slides](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/Resources/itsnpallslides.zip) ]
 
 <br/>
 
