@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KHELKUD | ALL PRODUCTS</title>
+    <link rel="icon" type="images/png" href="assets/Images/logo1.png" sizes="144x32">
+    <link rel="stylesheet" href="assets/css/style1.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,700;1,500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <div class="header">
+    <!--Nav Bar-->
+    <div class="container">
+        <div class="navbar">
+            <div class="logo">
+                <a href="../khelkud/index.html"><img src="assets/images/logo3.png" alt="logo" width="160px"></a>
+            </div>
+            <nav>
+                <ul id="MenuItems">
+                    <li><a href="../khelkud/index.html">Home</a></li>
+                    <li><a href="#">Products</a></li>
+                    <li><a href="">Contact</a></li>
+                </ul>
+            </nav>
+            <img src="assets/images/cart.png" width="30px" height="30px">
+            <img src="assets/images/menu.png" class="menu-icon" onclick="menutoogle()">    
+        </div>
+    </div>
+    </div>
+
+<!--account page-->
+    <div class="account-page">
+        <div class="container">
+            <div class="row">
+                <div class="col-2">
+                    <div class="form-container">
+                        <div class="form-btn">
+                            <span onclick="login()">Login</span>
+                            <span onclick="register()">Register</span>
+                            <hr id="indicator">
+                        </div>
+                        <form id="loginForm" action="validation.php" method="post">
+                            <input type="text" name="user_name" placeholder="Username">
+                            <input type="email" name="email" placeholder="Email">
+                            <input type="password" name="password" placeholder="Password">
+                            <button type="submit" class="btn" name="login">Login</button>
+                            <a href="">Forgot Password?</a>
+                           
+                        </form>
+                        <form id="regForm" action="registration.php" method="post">
+                            <input type="text" name="user_name" placeholder="Username">
+                            <input type="email" name="email" placeholder="Email">
+                            <input type="password" name="password" placeholder="Password">
+                            <button type="submit" class="btn" name="register">Register</button>
+                        </form>
+                    </div>
+                </div>
+                <div class="col-2">
+                    <img src="assets/images/image.png" width="100%">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+<!---------footer---------->
+<div class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="footer-col-2">
+                <img src="assets/Images/Khelkud.png">
+                <p>Our Purpose Is To Sustainably Make the Pleasure and Benefits of
+                    Sports Accessible to The Many.</p>
+            </div>
+            <div class="footer-col-3">
+                <h3>Useful Links</h3>
+                <ul>
+                    <li>Coupons</li>
+                    <li>Blog Post</li>
+                    <li>Return Policy</li>
+                    <li>Join Affiliate</li>
+                </ul>
+            </div>
+            <div class="footer-col-4">
+                <h3>Follow us</h3>
+                <ul>
+                    <li><a href="https://facebook.com">Facebook</a></li>
+                    <li><a href="https://instagram.com">Instagram</a></li>
+                    <li><a href="https://twitter.com">Twitter</a></li>
+                    <li><a href="https://youtube.com">YouTube</a></li>
+                </ul>
+            </div>
+        </div>
+        <hr>
+        <p class="copyright">Copyright © 2021 - KHELKUD</p>
+    </div>
+</div>
+
+<!-- Javascript -->
+    <script>
+        /* toggle form */
+            var loginForm = document.getElementById("loginForm");
+            var regForm = document.getElementById("regForm");
+            var indicator = document.getElementById("indicator");
+            
+            function login(){
+                regForm.style.transform = "translateX(300px)";
+                loginForm.style.transform = "translateX(300px)";
+                indicator.style.transform = "translateX(0px)";
+            }
+            function register(){
+                regForm.style.transform = "translateX(0px)";
+                loginForm.style.transform = "translateX(0px)";
+                indicator.style.transform = "translateX(100px)";
+            }
+    </script>
+</body>
+</html>
