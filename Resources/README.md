@@ -8,19 +8,19 @@
 <br/>
 `Day 2` : [View Day 2 slides](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/Resources/day_2.pdf) | [View Day 2 Recorded session](https://youtu.be/zWnv2eTjsKw)
 <br/>
-`Day 3` : [View Day 3 slides](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/Resources/day_1.pdf) | [View Day 3 Recorded session](https://youtu.be/wp50LfynycE)
+`Day 3` : [View Day 3 slides](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/Resources/day_3.pdf) | [View Day 3 Recorded session](https://youtu.be/wp50LfynycE)
 <br/>
-`Day 4` : [View Day 4 slides](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/Resources/day_1.pdf) | [View Day 4 Recorded session](https://youtu.be/HPpZDoo8GTE)
+`Day 4` : [View Day 4 slides](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/Resources/day_4.pdf) | [View Day 4 Recorded session](https://youtu.be/HPpZDoo8GTE)
 <br/>
-`Day 5` : [View Day 5 slides](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/Resources/day_1.pdf) | [View Day 5 Recorded session](https://youtu.be/vW3ov4VqOIY)
+`Day 5` : [View Day 5 slides](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/Resources/day_5.pdf) | [View Day 5 Recorded session](https://youtu.be/vW3ov4VqOIY)
 <br/>
-`Day 6` : [View Day 6 slides](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/Resources/day_1.pdf) | [View Day 6 Recorded session](https://youtu.be/0WxpXVXR_IQ)
+`Day 6` : [View Day 6 slides](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/Resources/day_6.pdf) | [View Day 6 Recorded session](https://youtu.be/0WxpXVXR_IQ)
 <br/>
-`Day 7` : [View Day 7 slides](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/Resources/day_1.pdf) | [View Day 7 Recorded session](https://youtu.be/A3tKvp9ORGA)
+`Day 7` : [View Day 7 slides](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/Resources/day_7.pdf) | [View Day 7 Recorded session](https://youtu.be/A3tKvp9ORGA)
 <br/>
-`Day 8` : [View Day 8 slides](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/Resources/day_1.pdf) | [View Day 8 Recorded session](https://youtu.be/CJbvqUBI8RA)
+`Day 8` : [View Day 8 slides](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/Resources/day_8.pdf) | [View Day 8 Recorded session](https://youtu.be/CJbvqUBI8RA)
 <br/>
-`Day 9` : [View Day 9 slides](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/Resources/day_1.pdf) | [View Day 9 Recorded session](https://youtu.be/fvNVqfn6DpM) | [View Day 9 Recorded session part 2](https://youtu.be/PC7-1iFqS9s) <br/>
+`Day 9` : [View Day 9 slides](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/Resources/day_9.pdf) | [View Day 9 Recorded session](https://youtu.be/fvNVqfn6DpM) | [View Day 9 Recorded session part 2](https://youtu.be/PC7-1iFqS9s) <br/>
 
 ### [ [View all playlist!](https://www.youtube.com/playlist?list=PLkHMopSWmw_T8JxGRE1E8If1mUcj4o-LA) | [Download all slides](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/Resources/itsnpallslides.zip) ]
 
